@@ -1,0 +1,49 @@
+#firstname {
+    background-color: yellow;
+}
+H1 {
+    color: rgb(111, 0, 255);
+    text-decoration: underline;
+    text-align: center;
+    font-family: "Times New Roman", serif;
+}
+P {
+    font-size: 30px;
+    color: rgb(0, 0, 255);
+    text-align: center;
+}
+.one {
+    color: rgb(255, 0, 162);
+    font-size: 30px;
+    
+}
+.two {
+    color: rgb(0, 191, 255);
+    font-size: 30px;
+}
+#one {
+    color: rgba(6, 0, 4, 0.839);
+    font-size: 30px;
+    font-weight: 600;   
+}
+#two {
+    color: rgba(4, 108, 4, 0.839);
+    font-size: 30px;
+    font-weight: 600;   
+}
+#three {
+    color: rgba(211, 5, 5, 0.845);
+    font-size: 30px;
+    font-weight: 600;   
+}
+#four {
+    color: rgba(123, 4, 173, 0.839);
+    font-size: 30px;
+    font-weight: 600;   
+}
+.three {
+    color: rgba(22, 1, 1, 0.933);
+    font-size: 30px;
+    text-align: left;
+    border:  solid green;
+}
